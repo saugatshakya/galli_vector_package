@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
                   height: MediaQuery.sizeOf(context).height
                 ),
                 showCurrentLocation: false,
-                authToken: "349ebf7c-9980-483d-8b16-6b193617ed52",
+                authToken: "token",
               );
             }),
       )),
